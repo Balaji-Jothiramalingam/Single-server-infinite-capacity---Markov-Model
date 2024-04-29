@@ -23,8 +23,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Program:
 ```
-Name: Yuvadarshini S
-Reg No.: 212221230126
+Name: BALAJI J
+Reg No.: 212221243001
 ```
 
 ```
